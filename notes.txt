@@ -1,0 +1,32 @@
+User Credentials
+
+Admin User
+Username: admin
+Password: adm123456
+
+Manager
+Username: mario
+Password: mario123456
+token: 3119c1ca6aa13a24bb957af8f7d042a2b658c3e2
+
+Delivery Crew
+Username: johndoe
+Password: jd123456
+token: af557e154d8fe57d76536e6cd2a55e18d3640491
+
+Username: jimbeam
+Password: jb123456
+
+
+Customers
+Username: customer1
+Password: cus1-123
+token: 4668cd177e66da8deb6a1b8d4e2adfa6feb78c1b
+
+Username: customer2
+Password: cus2-123
+token: 59effceca6a6cdd04f834944c2d91add90e5ae9e
+
+Username: customer3
+Password: cus3-123
+token: cf3ffc9b298e7032a534620e7be88a968cfdec43
